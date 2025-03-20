@@ -1,6 +1,6 @@
 package com.eventos.api.repositories;
 
-import com.eventos.api.domain.adress.Address;
+import com.eventos.api.domain.address.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
